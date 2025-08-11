@@ -1,16 +1,16 @@
+103.197.189.133,443,Indonesia,PT Biznet Gio Nusantara
 36.95.152.58,12137,ID,PT Telekomunikasi Indonesia
 203.194.112.119,2053,ID,CV Rumahweb Indonesia
 203.194.112.119,8443,ID,CV Rumahweb Indonesia
 103.6.207.108,8080,ID,PT Pusat Media Indonesia
-172.232.239.151,587,ID,Akamai Connected Cloud
 149.129.250.8,443,ID,21F Ciputra World 1 DBS Tower JalanProf DR Satrio Kav 35 Jakarta 12940 Indonesia
 43.218.77.16,1443,ID,Amazoncom Inc
 43.218.77.16,443,ID,Amazoncom Inc
-8.215.196.18,587,ID,Alibaba
+103.115.4.2,2053,Myanmar,Yar Chang Company Limited
+103.117.151.111,2053,Thailand,Siamdata Communication Co.,ltd.
 47.81.9.160,443,TH,Alibaba Cloud LLC
 91.192.81.154,2053,SG,Melbikomas UAB
 185.81.28.95,30503,SG,AKILE LTD
-64.235.45.131,443,SG,Singapore SG Datacenter
 64.49.14.41,2053,SG,Internet Utilities NA LLC
 43.156.107.236,12131,SG,6 COLLYER QUAY
 194.127.193.124,24467,SG,Greencloud LLC
