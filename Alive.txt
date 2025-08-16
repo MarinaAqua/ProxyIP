@@ -6,7 +6,13 @@
 149.129.250.8,443,ID,21F Ciputra World 1 DBS Tower JalanProf DR Satrio Kav 35 Jakarta 12940 Indonesia
 43.218.77.16,1443,ID,Amazoncom Inc
 43.218.77.16,443,ID,Amazoncom Inc
-103.115.4.2,2053,MR,Yar Chang Company Limited
+34.101.86.59,443,ID,Google LLC
+103.146.63.149,443,ID,PT Semut Data Indonesia
+206.84.101.83,8443,ID,PT MITRA VISIONER PRATAMA
+149.129.250.8,443,ID,Alibaba (US) Technology Co., Ltd.
+154.205.159.72,2053,ID,Kaopu Cloud HK Limited
+172.232.234.198,443,ID,Akamai Technologies, Inc.
+172.232.234.62,443,ID,Akamai Technologies, Inc.
 103.117.151.111,2053,TH,Siamdata Communication Co.ltd
 47.81.9.160,443,TH,Alibaba Cloud LLC
 91.192.81.154,2053,SG,Melbikomas UAB
@@ -60,6 +66,7 @@
 213.35.108.135,12596,SG,Oracle Svenska AB
 213.35.100.31,47112,SG,Oracle Svenska AB
 213.35.107.73,443,SG,Oracle Svenska AB
+142.111.15.104,443,US,Ace Data Centers II, L.L.C.
 44.227.209.152,443,US,Amazoncom Inc
 45.11.93.3,2053,US,as56971 network
 45.142.159.9,9991,US,Spartan Host Ltd
