@@ -1,3 +1,9 @@
+103.119.54.24,2083,ID,PT. Eka Mas Republik
+103.119.54.24,2087,ID,PT. Eka Mas Republik
+103.119.54.24,2096,ID,PT. Eka Mas Republik
+103.119.54.24,8443,ID,PT. Eka Mas Republik
+103.119.54.24,2053,ID,PT. Eka Mas Republik
+103.119.54.24,443,ID,PT. Eka Mas Republik
 103.197.189.133,443,ID,PT Biznet Gio Nusantara
 36.95.152.58,12137,ID,PT Telekomunikasi Indonesia
 203.194.112.119,2053,ID,CV Rumahweb Indonesia
@@ -21,10 +27,27 @@
 43.156.107.236,12131,SG,6 COLLYER QUAY
 194.127.193.124,24467,SG,Greencloud LLC
 206.206.77.53,443,SG,REGXA LLC
-128.199.134.152,443,SG,DigitalOcean LLC
+206.189.85.0,443,SG,DigitalOcean, LLC
+146.190.107.103,443,SG,DigitalOcean, LLC
+165.232.166.115,8443,SG,DigitalOcean, LLC
+128.199.134.152,443,SG,DigitalOcean, LLC
+139.59.104.29,443,SG,DigitalOcean, LLC
+167.99.73.22,443,SG,DigitalOcean, LLC
+143.198.222.82,3128,SG,DigitalOcean, LLC
+167.71.198.82,443,SG,DigitalOcean, LLC
 143.198.196.196,8443,SG,DigitalOcean LLC
 143.198.196.196,2053,SG,DigitalOcean LLC
-167.99.73.22,443,SG,DigitalOcean LLC
+43.165.191.216,443,SG,Shenzhen Tencent Computer Systems Company Limited
+43.156.36.246,6601,SG,Shenzhen Tencent Computer Systems Company Limited
+43.160.202.92,443,SG,Shenzhen Tencent Computer Systems Company Limited
+154.194.12.154,2083,SG,Cloudflare London, LLC
+154.194.12.159,2083,SG,Cloudflare London, LLC
+154.194.12.250,2083,SG,Cloudflare London, LLC
+154.194.12.197,2083,SG,Cloudflare London, LLC
+154.194.12.201,2053,SG,Cloudflare London, LLC
+154.194.12.201,443,SG,Cloudflare London, LLC
+154.194.12.201,8443,SG,Cloudflare London, LLC
+154.194.12.44,2053,SG,Cloudflare London, LLC
 52.221.189.27,443,SG,Amazon Data Services Singapore
 47.130.35.116,8888,SG,Amazon Data Services Singapore
 13.250.131.37,443,SG,Amazon Data Services Singapore
