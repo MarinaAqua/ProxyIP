@@ -4,21 +4,28 @@
 103.119.54.24,8443,ID,PT. Eka Mas Republik
 103.119.54.24,2053,ID,PT. Eka Mas Republik
 103.119.54.24,443,ID,PT. Eka Mas Republik
-103.197.189.133,443,ID,PT Biznet Gio Nusantara
 36.95.152.58,12137,ID,PT Telekomunikasi Indonesia
 203.194.112.119,2053,ID,CV Rumahweb Indonesia
 203.194.112.119,8443,ID,CV Rumahweb Indonesia
 103.6.207.108,8080,ID,PT Pusat Media Indonesia
-149.129.250.8,443,ID,21F Ciputra World 1 DBS Tower JalanProf DR Satrio Kav 35 Jakarta 12940 Indonesia
-43.218.77.16,1443,ID,Amazoncom Inc
+149.129.250.8,443,ID,Alibaba (US) Technology Co., Ltd.
 43.218.77.16,443,ID,Amazoncom Inc
-34.101.86.59,443,ID,Google LLC
-103.146.63.149,443,ID,PT Semut Data Indonesia
 206.84.101.83,8443,ID,PT MITRA VISIONER PRATAMA
 149.129.250.8,443,ID,Alibaba (US) Technology Co., Ltd.
 154.205.159.72,2053,ID,Kaopu Cloud HK Limited
 172.232.234.198,443,ID,Akamai Technologies, Inc.
 172.232.234.62,443,ID,Akamai Technologies, Inc.
+172.232.234.155,443,ID,Akamai Technologies, Inc.
+172.232.234.155,12306,ID,Akamai Technologies, Inc.
+172.232.234.155,20205,ID,Akamai Technologies, Inc.
+172.232.234.155,4399,ID,Akamai Technologies, Inc.
+172.232.234.155,32225,ID,Akamai Technologies, Inc.
+172.232.234.155,386,ID,Akamai Technologies, Inc.
+172.232.234.166,443,ID,Akamai Technologies, Inc.
+172.232.234.166,486,ID,Akamai Technologies, Inc.
+172.232.234.20,443,ID,Akamai Technologies, Inc.
+172.232.234.20,12306,ID,Akamai Technologies, Inc.
+172.232.234.20,386,ID,Akamai Technologies, Inc.
 103.117.151.111,2053,TH,Siamdata Communication Co.ltd
 47.81.9.160,443,TH,Alibaba Cloud LLC
 91.192.81.154,2053,SG,Melbikomas UAB
