@@ -24,6 +24,16 @@
 172.232.234.20,443,ID,Akamai Technologies, Inc.
 172.232.234.20,12306,ID,Akamai Technologies, Inc.
 172.232.234.20,386,ID,Akamai Technologies, Inc.
+46.254.92.166,443,ID,Cloudflare London, LLC
+46.254.92.166,8443,ID,Cloudflare London, LLC
+46.254.92.146,443,ID,Cloudflare London, LLC
+46.254.93.224,443,ID,Cloudflare London, LLC
+46.254.92.111,443,ID,Cloudflare London, LLC
+46.254.93.6,443,ID,Cloudflare London, LLC
+46.254.92.44,443,ID,Cloudflare London, LLC
+46.254.92.143,443,ID,Cloudflare London, LLC
+46.254.92.27,443,ID,Cloudflare London, LLC
+46.254.93.246,443,ID,Cloudflare London, LLC
 103.117.151.111,2053,TH,Siamdata Communication Co.ltd
 47.81.9.160,443,TH,Alibaba Cloud LLC
 91.192.81.154,2053,SG,Melbikomas UAB
